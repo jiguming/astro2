@@ -3,3 +3,4 @@ astropy
 numpy
 pillow
 scipy
+matplotlib
